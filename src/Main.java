@@ -7,6 +7,7 @@ public class Main {
         Tienda tienda = new Tienda();
         Scanner teclado = new Scanner(System.in);
 //       Duvan felipe nieto hernandez id 92736
+//       Andres Esteba Cardenas Montañez id 935186
 
         Producto producto1 = new Producto("001", "Laptop");
         Producto producto2 = new Producto("002", "Smartphone");
