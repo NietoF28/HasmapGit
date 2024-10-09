@@ -7,7 +7,6 @@ public class Main {
         Tienda tienda = new Tienda();
         Scanner teclado = new Scanner(System.in);
 //       Duvan felipe nieto hernandez id 92736
-        //Andrés Esteban Cárdenas Montañez 935186
 
         Producto producto1 = new Producto("001", "Laptop", 1500.0);
         Producto producto2 = new Producto("002", "Smartphone", 800.0);
@@ -33,4 +32,7 @@ public class Main {
 
 
     }
+}
+    }
+
 }
